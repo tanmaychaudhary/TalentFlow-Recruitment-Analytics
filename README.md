@@ -18,7 +18,7 @@ This project simulates a recruitment process from job postings to final hires, u
 
 ## 📁 Folder Structure
 
-<pre><code>## 📁 Folder Structure ``` TalentFlow-Recruitment-Analytics/ │ ├── powerbi_dashboard/ │ ├── TalentFlow_Report.pbix │ └── CSV_Data/ │ ├── candidates.csv │ ├── applications.csv │ ├── job_postings.csv │ ├── interview_stages.csv │ ├── offers.csv │ ├── hires.csv │ └── recruiters.csv │ ├── sql_scripts/ │ ├── create_tables.sql │ ├── insert_dummy_data.py │ └── business_queries.sql │ ├── screenshots/ │ └── Talent flow.png ``` </code></pre>
+<pre><code>## 📁 Folder Structure ``` TalentFlow-Recruitment-Analytics/ │ ├── powerbi_dashboard/ │ ├── Talentflow.pbix │ └── CSV_Data/ │ ├── candidates.csv │ ├── applications.csv │ ├── job_postings.csv │ ├── interview_stages.csv │ ├── offers.csv │ ├── hires.csv │ └── recruiters.csv │ ├── sql_scripts/ │ ├── Taable_queries.sql │ ├── generate_talentflow_datta.py │ └── Business_queries.sql │ ├── screenshots/ │ └── Talent flow.png ``` </code></pre>
 ---
 
 ## 🔍 Key Features
