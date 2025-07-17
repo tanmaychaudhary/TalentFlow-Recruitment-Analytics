@@ -74,7 +74,7 @@ TalentFlow-Recruitment-Analytics/
 
 ## 📸 Dashboard Preview
 
-![TalentFlow Dashboard](screenshots/Talent flow.png)
+![TalentFlow Dashboard](screenshots/Talent%20flow.png)
 
 ---
 
